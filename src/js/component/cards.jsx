@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
     return (
-        <div className="card col-3 container p-0" style={{width: '18rem'}}>
+        <div className="card col-3 container p-0 mb-5" style={{width: '18rem'}}>
             <img src="https://i.pinimg.com/236x/cc/c4/06/ccc406dbafc09f3ac2f066a494af21e7.jpg" className="card-img-top" alt="..." />
             <div className="card-body">
                 <h5 className="card-title text-center">Card title</h5>
